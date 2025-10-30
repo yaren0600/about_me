@@ -22,7 +22,7 @@
 <p align="center"> <!-- Genel istatistik kartı --> <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaren0600&show_icons=true&theme=tokyonight&hide_border=true" /> <!-- Streak (aktiflik zinciri) kartı --> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yaren0600&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <!-- En çok kullanılan diller kartı --> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaren0600&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 <h2>💌 Connect With Me</h2>
-<p align="center"> <a href="https://www.linkedin.com/in/begumyarenozturk" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Begüm%20Yaren%20Öztürk-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:begumyarenozturk@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-begumyarenozturk@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/begüm-yaren-öztürk00" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Begüm%20Yaren%20Öztürk-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:begumozturk0600@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-begumozturk0600@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 <h2>✨ Fun Fact</h2>
 
