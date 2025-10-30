@@ -29,9 +29,7 @@
   <!-- Genel İstatistikler -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=yaren0600&show_icons=true&theme=dracula&hide_border=false&hide_title=false&count_private=true" />
   
-  <!-- Streak Stats -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yaren0600&theme=dracula&hide_border=false" />
-</p>
+
 
 <p align="center">
   <!-- Top Languages -->
@@ -39,9 +37,15 @@
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=yaren0600&theme=dracula&area=true&hide_border=false" height="160" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaren0600&theme=dracula&hide_border=false" height="160" />
+
+  <!-- Contribution Graph (Dark Theme) -->
+  <img src="https://ghchart.rshah.org/yaren0600?bg=1E1E2F&color=FF6EC7&line=FFFFFF&point=FF9FF3" height="160" />
 </p>
+
+
+
 
 ## 💌 Connect With Me
 <p align="center">
