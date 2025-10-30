@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=30&duration=3000&pause=700&color=FF6EC7&center=true&vCenter=true&width=600&lines=Hello+World+!+👋;I'm+Begüm+Yaren+Öztürk;Computer+Engineer+%F0%9F%92%BB;Welcome+to+my+GitHub+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=32&duration=3000&pause=700&color=FF6EC7,FF9FF3&center=true&vCenter=true&width=600&lines=Hello+World+!+👋;I'm+Begüm+Yaren+Öztürk;Computer+Engineer+%F0%9F%92%BB;Welcome+to+my+GitHub+!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff9ff3,100:8e44ad&height=120&section=header&text=%20✨%20Building%20Apps%20That%20Make%20Life%20Easier%20|%20Always%20Learning%20&fontSize=24&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ff3,100:8e44ad&height=140&section=header&text=✨+Building+Apps+That+Make+Life+Easier+|+Always+Learning&fontSize=26&fontColor=fff&animation=fadeIn" />
 </p>
 
 ## 🌸 About Me
@@ -14,7 +14,7 @@
 
 ## ⚡ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,kotlin,dotnet,opencv,sql,git,vscode,androidstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,kotlin,dotnet,opencv,sql,git,vscode,androidstudio&theme=light&perline=4" />
 </p>
 
 ## 💼 Projects in Progress
@@ -24,12 +24,23 @@
 - 🎨 Exploring **UI/UX Design for Mobile Apps**  
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yaren0600&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yaren0600&theme=dracula&hide_border=true" />
+  <!-- Genel İstatistikler -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yaren0600&show_icons=true&theme=dracula&hide_border=false&hide_title=false&count_private=true" />
+  
+  <!-- Streak Stats -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yaren0600&theme=dracula&hide_border=false" />
 </p>
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaren0600&layout=compact&theme=dracula&hide_border=true" />
+  <!-- Top Languages -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaren0600&layout=compact&theme=dracula&hide_border=false&langs_count=6" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=yaren0600&theme=dracula&area=true&hide_border=false" height="160" />
 </p>
 
 ## 💌 Connect With Me
@@ -43,5 +54,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66cc,100:9b59b6&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66cc,100:9b59b6&height=160&section=footer&animation=fadeIn" />
 </p>
